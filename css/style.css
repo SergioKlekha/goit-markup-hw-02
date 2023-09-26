@@ -1,4 +1,4 @@
-body {
+.body {
     font-family:'Roboto','san-serif';
     color: #434455;
     background-color:#FFFFFF;
@@ -56,7 +56,7 @@ text-transform: uppercase;
 }
 
 .header-list-link {
-
+    color: #2e2f42;
 }
 
 .header-list-link:hover,:focus {
@@ -145,7 +145,7 @@ text-transform: uppercase;
 /* ---------------------------------------------team--------------------- */
 
 .team {
-
+    background-color: #F4F4FD
 }
 
 .team-title {
@@ -160,10 +160,12 @@ text-transform: uppercase;
 }
 
 .team-list {
-    background-color: #FFFFFF
+    
 }
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF
+}
 
 .team-image {}
 
@@ -174,6 +176,7 @@ text-transform: uppercase;
         font-style: normal;
         font-weight: 500;
         line-height: 1.2;
+        letter-spacing: 0.02em;
 }
 
 .team-text {
@@ -229,6 +232,11 @@ text-transform: uppercase;
 
 .footer {
     background-color:#2E2F42;
+}
+
+.logo-color-footer {
+    color: #f4f4fd;
+    font-family: 'Raleway';
 }
 
 .footer-logo {
