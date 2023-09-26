@@ -1,5 +1,5 @@
 body {
-    font-family:'Ralewey','san-serif';
+    font-family:'Roboto','san-serif';
     color: #434455;
     background-color:#FFFFFF;
     
@@ -17,6 +17,7 @@ a {
     list-style: none;
 }
 
+
 /* --------------------------------------------header---------------------- */
 
 .logo-color {
@@ -33,6 +34,7 @@ a {
 }
 
 .header-logo {
+    font-family: 'Ralewey','san-serif';
     color:#4D5AE5;
 font-size: 18px;
 font-style: normal;
@@ -102,6 +104,7 @@ text-transform: uppercase;
 }
 
 .hero-btn {
+    font-family: 'Roboto','san-serif';
     color: #FFF;
     background-color: #4D5AE5;
         font-size: 16px;
