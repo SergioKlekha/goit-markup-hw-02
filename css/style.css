@@ -1,5 +1,5 @@
-body {
-    font-family:'Roboto','san-serif';
+.body {
+    font-family: "Roboto", 'sans serif';
     color: #434455;
     background-color:#FFFFFF;
     
@@ -34,7 +34,7 @@ a {
 }
 
 .header-logo {
-    font-family: 'Ralewey','san-serif';
+    font-family: 'Ralewey','sans serif';
     color:#4D5AE5;
 font-size: 18px;
 font-style: normal;
@@ -104,7 +104,7 @@ text-transform: uppercase;
 }
 
 .hero-btn {
-    font-family: 'Roboto','san-serif';
+    font-family:inherit;
     color: #FFF;
     background-color: #4D5AE5;
         font-size: 16px;
@@ -243,6 +243,7 @@ text-transform: uppercase;
 }
 
 .footer-logo {
+    font-family: 'Ralewey','san serif';
     color: #4d5ae5;
         font-size: 18px;
         font-style: normal;
